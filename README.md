@@ -1,2 +1,2 @@
 # ML_Project
-A smart chatbot that provides instant, accurate assistance for Superior University's admission process and inquiries.
+This chatbot is designed to assist prospective students with Superior University's admission process. It provides instant answers to common questions about programs, eligibility, deadlines, and required documents. By offering 24/7 support, it reduces the need for in-person visits or long email exchanges. The chatbot ensures a smooth and accessible admission experience for all applicants.
